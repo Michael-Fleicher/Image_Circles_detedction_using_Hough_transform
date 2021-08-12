@@ -1,5 +1,5 @@
 # Hough transform
-The purpose of this repository is to demonstrate the Hough transform to detect circles in images
+The purpose of this repository is to demonstrate the Hough transform to detect circles in images, , without use of any Image processing libraries
 
 ## Hough Circles
 implementation of the Hough circles transform.
